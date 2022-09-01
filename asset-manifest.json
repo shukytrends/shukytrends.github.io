@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9031b711.css",
+    "main.js": "/static/js/main.dbbe94b6.js",
+    "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.a84653d4fe0072d182b6.svg",
+    "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.55faa7ef298ebafcc322.svg",
+    "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.a0b3c6d0d774520787d8.eot",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.8618686494a5c8092120.ttf",
+    "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.fa5f132deb163050a148.svg",
+    "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.3825c40fd00d9bbb76b7.eot",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1437eef49e3db661f92c.ttf",
+    "static/media/GOWNS.jpeg": "/static/media/GOWNS.e24a5435c0b7afbf1a1f.jpeg",
+    "static/media/ethnic.jpeg": "/static/media/ethnic.a5d78765835aa04c76f5.jpeg",
+    "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.afbdcbccd6861d9cdc38.woff",
+    "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.e1c1a88e6228f902435e.woff",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.9a01a31d6767f82529dc.woff2",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.0f27e9b933cc50abbbba.woff2",
+    "static/media/kids.jpeg": "/static/media/kids.a79073ea8ad903d21876.jpeg",
+    "static/media/blowses.jpeg": "/static/media/blowses.8a60acfd8962fe2ea03b.jpeg",
+    "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.eb99d5076e8ce45ccfa1.eot",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.814c2c571f030686e71c.ttf",
+    "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.acdccc059cdf7b4063e9.woff",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.5fab4ed5c3745c12c7e1.woff2",
+    "index.html": "/index.html",
+    "main.9031b711.css.map": "/static/css/main.9031b711.css.map",
+    "main.dbbe94b6.js.map": "/static/js/main.dbbe94b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9031b711.css",
+    "static/js/main.dbbe94b6.js"
+  ]
+}
