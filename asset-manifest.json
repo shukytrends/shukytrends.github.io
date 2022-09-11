@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.81bdd2af.css",
-    "main.js": "/static/js/main.ca352e7c.js",
-    "static/media/vector.jpg": "/static/media/vector.f5207c5db8fcacca1e85.jpg",
+    "main.css": "/static/css/main.fdd144df.css",
+    "main.js": "/static/js/main.1ea1b985.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.a84653d4fe0072d182b6.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.55faa7ef298ebafcc322.svg",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.a0b3c6d0d774520787d8.eot",
@@ -18,17 +17,18 @@
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.0f27e9b933cc50abbbba.woff2",
     "static/media/kids.jpeg": "/static/media/kids.a79073ea8ad903d21876.jpeg",
     "static/media/blowses.jpeg": "/static/media/blowses.8a60acfd8962fe2ea03b.jpeg",
+    "static/media/header_bg.jpg": "/static/media/header_bg.e53b540760ffaf680473.jpg",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.eb99d5076e8ce45ccfa1.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.814c2c571f030686e71c.ttf",
-    "static/media/seamless-sea-summer-clothes-elements-vector-pattern_656817-166.jpg": "/static/media/seamless-sea-summer-clothes-elements-vector-pattern_656817-166.a287a7c7f0f96756d169.jpg",
+    "static/media/body_bg.jpg": "/static/media/body_bg.a287a7c7f0f96756d169.jpg",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.acdccc059cdf7b4063e9.woff",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.5fab4ed5c3745c12c7e1.woff2",
     "index.html": "/index.html",
-    "main.81bdd2af.css.map": "/static/css/main.81bdd2af.css.map",
-    "main.ca352e7c.js.map": "/static/js/main.ca352e7c.js.map"
+    "main.fdd144df.css.map": "/static/css/main.fdd144df.css.map",
+    "main.1ea1b985.js.map": "/static/js/main.1ea1b985.js.map"
   },
   "entrypoints": [
-    "static/css/main.81bdd2af.css",
-    "static/js/main.ca352e7c.js"
+    "static/css/main.fdd144df.css",
+    "static/js/main.1ea1b985.js"
   ]
 }
